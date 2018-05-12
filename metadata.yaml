@@ -19,6 +19,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29672#Cossack-Fairy-Tales-and-Folk-Tales
 gutenberg_issued: '2009-08-12'
 gutenberg_type: Text
 identifiers:
